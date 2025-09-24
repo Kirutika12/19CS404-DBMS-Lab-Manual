@@ -22,8 +22,9 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-*Paste or attach your diagram here*  
-![ER Diagram](er_diagram_fitness.png)
+<img width="1395" height="900" alt="image" src="https://github.com/user-attachments/assets/99016816-6378-4520-bfd3-0b22088e0d3c" />
+
+
 
 ### Entities and Attributes
 
